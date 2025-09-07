@@ -99,31 +99,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Working with Naitik was exceptional. His technical expertise in the MERN stack and attention to detail helped us deliver our project ahead of schedule. The quality of code and user experience exceeded our expectations. Highly recommend for any full-stack development needs.",
+      "Working with Parth was exceptional. His technical expertise in the MERN stack and attention to detail helped us deliver our project ahead of schedule. The quality of code and user experience exceeded our expectations. Highly recommend for any full-stack development needs.",
     name: "Sarah Chen",
     title: "CTO at TechFlow Solutions",
   },
   {
     quote:
-      "Naitik transformed our outdated website into a modern, responsive platform. His deep understanding of React and Node.js, combined with his creative problem-solving skills, made the entire process smooth and efficient. Our user engagement increased by 40%.",
+      "Parth transformed our outdated website into a modern, responsive platform. His deep understanding of React and Node.js, combined with his creative problem-solving skills, made the entire process smooth and efficient. Our user engagement increased by 40%.",
     name: "David Rodriguez",
     title: "Product Manager at InnovateLab",
   },
   {
     quote:
-      "I was impressed by Naitik's ability to understand complex requirements and translate them into elegant solutions. His expertise in MongoDB optimization and API design significantly improved our application's performance. A true professional.",
+      "I was impressed by Parth's ability to understand complex requirements and translate them into elegant solutions. His expertise in MongoDB optimization and API design significantly improved our application's performance. A true professional.",
     name: "Emily Watson",
     title: "Founder & CEO at StartupVenture",
   },
   {
     quote:
-      "Naitik's full-stack development skills are outstanding. He delivered a scalable e-commerce platform that handles thousands of transactions daily. His code is clean, well-documented, and maintainable. We couldn't be happier with the results.",
+      "Parth's full-stack development skills are outstanding. He delivered a scalable e-commerce platform that handles thousands of transactions daily. His code is clean, well-documented, and maintainable. We couldn't be happier with the results.",
     name: "Alex Thompson",
     title: "Technical Lead at RetailTech Corp",
   },
   {
     quote:
-      "From concept to deployment, Naitik demonstrated exceptional skills in both frontend and backend development. His ability to work with modern technologies like Next.js and create seamless user experiences is remarkable. A developer you can trust.",
+      "From concept to deployment, Parth demonstrated exceptional skills in both frontend and backend development. His ability to work with modern technologies like Next.js and create seamless user experiences is remarkable. A developer you can trust.",
     name: "Maria Gonzalez",
     title: "Digital Strategy Director at CreativeWorks",
   },
@@ -196,11 +196,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/Naitik00777",
+    link: "https://github.com/ksparth12",
+  },
+  {
+    id: 2,
+    img: "/twit.svg",
+    link: "https://x.com/ksparth12",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/naitiksingh14",
+    link: "https://linkedin.com/in/ksparth12",
   },
 ];

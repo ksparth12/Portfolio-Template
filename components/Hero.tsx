@@ -74,7 +74,7 @@ const Hero = () => {
             <div className="mb-6">
               <div className="inline-block relative">
                 <div className="text-4xl md:text-6xl lg:text-7xl font-bold">
-                  {renderSplitText("Hi I'm Naitik")}
+                  {renderSplitText("Hi I'm Parth")}
                 </div>
                 <div className="w-full h-1 bg-gradient-to-r from-blue-400 to-purple mt-2 rounded-full animate-fadeIn"></div>
               </div>
@@ -93,7 +93,7 @@ const Hero = () => {
             </div>
 
             <div className="flex justify-center md:justify-start gap-4 animate-fadeIn">
-              <a href="https://drive.google.com/file/d/1H-IGWIjmslCcx9QX6jQdS6UXYpcPE0Ch/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1d9ALAgqR8nv9rUy-vGRJV8RBR5E19Kop/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                 <RippleButton
                   title="Resume"
                   icon={<FaLocationArrow />}

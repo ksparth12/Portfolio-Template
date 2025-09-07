@@ -37,7 +37,7 @@ const Projects = () => {
       {/* GitHub Button */}
       <div className="flex justify-center mt-12">
         <a 
-          href="https://github.com/Naitik00777" 
+          href="https://github.com/ksparth12" 
           target="_blank" 
           rel="noopener noreferrer"
           className="group relative inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-purple-600 to-blue-600 text-white font-semibold rounded-full transition-all duration-300 hover:from-purple-700 hover:to-blue-700 hover:scale-105 hover:shadow-xl hover:shadow-purple-500/25"

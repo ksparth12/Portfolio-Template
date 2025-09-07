@@ -17,7 +17,7 @@ export default function Header() {
     >
       {/* Logo */}
       <Link href="/" className="flex items-center gap-3 cursor-pointer">
-  <span className="text-xl font-bold transition-colors text-neutral-400 hover:text-white m-3.5 sm:m-8">NS</span>
+  <span className="text-xl font-bold transition-colors text-neutral-400 hover:text-white m-3.5 sm:m-8">PS</span>
       </Link>
     </header>
   );

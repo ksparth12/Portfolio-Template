@@ -8,7 +8,7 @@ import Header from "@/components/Header";
 const figtree = Figtree({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Naitik's Portfolio",
+  title: "Parth's Portfolio",
   description: "Modern & Minimal Full Stack Developer Portfolio",
 };
 
@@ -21,7 +21,9 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="icon" href="/naitik-profile.jpg" sizes="any" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/parth-profile.jpg" type="image/jpeg" />
+        <link rel="apple-touch-icon" href="/parth-profile.jpg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
