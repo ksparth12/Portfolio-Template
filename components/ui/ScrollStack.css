@@ -1,0 +1,26 @@
+.scroll-stack-container {
+    position: relative;
+    width: 100%;
+    min-height: 600px;
+    overflow: visible;
+}
+
+.scroll-stack-card {
+    background: #18181b;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s cubic-bezier(.25, .8, .25, 1), filter 0.3s;
+    will-change: transform, filter;
+    position: relative;
+    z-index: 1;
+}
+
+.scroll-stack-card[data-active="true"] {
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+    filter: brightness(1.1);
+}
+
+.scroll-stack-end {
+    height: 1px;
+    width: 100%;
+}
