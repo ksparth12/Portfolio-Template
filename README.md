@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Naitik's Modern Next.js Portfolio</h3>
+  <h3 align="center">Parth's Modern Next.js Portfolio</h3>
 
    <div align="center">
      A stunning, modern portfolio showcasing cutting-edge web development skills and creative design.
@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/ksNaitik12/portfolio.git
+git clone https://github.com/ksparth12/portfolio.git
 cd portfolio
 ```
 
@@ -177,66 +177,58 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/ksNaitik12/3d-solar-system",
+    title: "ThinkForge - AI Project Ideas Generator",
+    des: "Discover AI-powered project ideas tailored for skill development, hackathons, and resume building. Transform your learning journey with personalized, innovative concepts.",
+    img: "/assets/projects/ThinkForge.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://github.com/ksparth12/ThinkForge",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/ksNaitik12/video-conferencing-app",
+    title: "DSA Hub - Interactive Learning Platform",
+    des: "Interactive platform to visualize, learn & practice Data Structures & Algorithms with interactive visualizations and practice problems to master DSA concepts with ease.",
+    img: "/assets/projects/DsaHub.png",
+    iconLists: ["/re.svg", "/tail.svg", "/assets/logos/javascript.svg", "/assets/logos/nodeJs.svg"],
+    link: "https://github.com/ksparth12/DSA-HUB",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/ksNaitik12/ai-saas-app",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/ksNaitik12/iphone-3d-website",
+    title: "SnapURL - Link Shortening Platform",
+    des: "Transform long URLs into powerful links. Create branded, memorable links in seconds. Track performance, generate QR codes, and elevate your digital presence.",
+    img: "/assets/projects/snapUrl.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/assets/logos/mongodb.svg"],
+    link: "https://github.com/ksparth12/SnapURL-2",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Naitik was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Naitik's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Naitik is the ideal partner.",
+      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Naitik was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Naitik's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Naitik is the ideal partner.",
+      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Naitik was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Naitik's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Naitik is the ideal partner.",
+      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Naitik was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Naitik's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Naitik is the ideal partner.",
+      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Naitik was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Naitik's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Naitik is the ideal partner.",
+      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -653,13 +645,14 @@ style={{
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
 
-## <a name="more">🚀 Connect with Naitik</a>
+## <a name="more">🚀 Connect with Parth</a>
 
 **Want to see more of my work?**
 
 Check out my other projects and connect with me on social media:
 
-- **GitHub**: [github.com/Naitik00777](https://github.com/Naitik00777)
-- **LinkedIn**: [linkedin.com/in/naitiksingh14/](https://www.linkedin.com/in/naitiksingh14/)
+- **GitHub**: [github.com/ksparth12](https://github.com/ksparth12)
+- **LinkedIn**: [linkedin.com/in/ksparth12](https://linkedin.com/in/ksparth12)
+- **Twitter**: [x.com/ksparth12](https://x.com/ksparth12)
 
 Feel free to reach out if you want to collaborate on interesting projects!
