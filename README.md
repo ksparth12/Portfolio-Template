@@ -1,658 +1,324 @@
 <div align="center">
   <br />
-    <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80" alt="Modern Portfolio Banner" width="800">
+  <img src="/public/assets/readme/Landingpage.png" alt="Parth Sharma Portfolio - Modern Next.js Portfolio" width="100%">
   <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Framer_Motion-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
   </div>
 
-  <h3 align="center">Parth's Modern Next.js Portfolio</h3>
+  <h1 align="center">🚀 Parth Sharma - Modern Portfolio</h1>
 
    <div align="center">
-     A stunning, modern portfolio showcasing cutting-edge web development skills and creative design.
-    </div>
+     <p>A stunning, interactive portfolio showcasing cutting-edge web development skills, modern design patterns, and innovative project implementations.</p>
+     <p>🌟 <strong>Featured Projects:</strong> ThinkForge • DSA Hub • SnapURL</p>
+   </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+---
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+## 📋 Table of Contents
 
-## 🚨 About This Portfolio
+1. [🚀 Overview](#overview)
+2. [✨ Features](#features)
+3. [🛠️ Tech Stack](#tech-stack)
+4. [📸 Portfolio Showcase](#showcase)
+5. [🚀 Featured Projects](#projects)
+6. [⚡ Quick Start](#quick-start)
+7. [📂 Project Structure](#structure)
+8. [🎨 UI Components](#components)
+9. [🔧 Configuration](#configuration)
+10. [🤝 Connect](#connect)
 
-This repository contains the code for my personal portfolio website, showcasing my skills as a full-stack developer. The portfolio demonstrates modern web development practices and includes interactive 3D elements, smooth animations, and responsive design.
+---
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Portfolio Screenshot" width="600" />
+## <a name="overview">🚀 Overview</a>
 
-## <a name="introduction">🤖 Introduction</a>
+Welcome to my modern, interactive portfolio built with **Next.js 14**, **TypeScript**, and cutting-edge web technologies. This portfolio demonstrates advanced web development skills through:
 
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates my skills as a developer in a unique manner that creates a lasting impact.
+- 🎨 **Modern UI/UX Design** with smooth animations and interactive elements
+- 🌟 **3D Graphics Integration** using Three.js for immersive experiences  
+- ⚡ **Performance Optimized** with Next.js App Router and server components
+- 📱 **Fully Responsive** design that works flawlessly across all devices
+- 🎭 **Advanced Animations** powered by Framer Motion
+- 🔮 **Interactive Components** including dynamic grids and hover effects
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+---
 
-- Next.js
-- Three.js
-- Framer Motion
-- Tailwind CSS
+## <a name="features">✨ Features</a>
 
-## <a name="features">🔋 Features</a>
+### 🏠 **Hero Section**
+- Dynamic spotlight effects with smooth animations
+- Interactive background with particle systems
+- Call-to-action buttons with hover effects
+- Resume download functionality
 
-👉 **Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
+### 🧩 **Bento Grid Layout**
+<img src="/public/assets/readme/bentogrdi.png" alt="Modern Bento Grid Layout" width="600">
 
-👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
+- Modern CSS Grid implementation
+- Interactive hover effects and animations
+- Responsive design across all screen sizes
+- Email copy functionality with visual feedback
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+### 🚀 **Projects Showcase**
+<img src="/public/assets/readme/projectsection.png" alt="Projects Section" width="600">
 
-👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
+- **ThinkForge**: AI-powered project ideas generator
+- **DSA Hub**: Interactive data structures learning platform
+- **SnapURL**: Modern link shortening service
+- GitHub integration with live project links
+- Detailed project descriptions and tech stacks
 
-👉 **Work Experience**: Prominent display of professional background for emphasis and credibility.
+### 💬 **Testimonials Section**
+<img src="/public/assets/readme/testimonials.png" alt="Testimonials Section" width="600">
 
-👉 **Canvas Effect**: Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
+- Animated testimonial cards
+- Smooth scrolling testimonial carousel
+- Professional recommendations display
+- Enhanced credibility section
 
-👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+### 🎯 **Additional Features**
+- **Responsive Navigation** with smooth scrolling
+- **Contact Form** with email integration
+- **Social Media Links** (GitHub, LinkedIn, Twitter)
+- **Dark/Light Theme** support
+- **SEO Optimized** with proper meta tags
+- **Performance Optimized** with lazy loading
 
-and many more, including code architecture and reusability 
+---
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="tech-stack">🛠️ Tech Stack</a>
 
-Follow these steps to set up the project locally on your machine.
+### **Frontend Framework**
+- **Next.js 14** - React framework with App Router
+- **React 18** - UI library with modern hooks
+- **TypeScript** - Type-safe development
 
-**Prerequisites**
+### **Styling & Design**
+- **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Advanced animations and transitions
+- **CSS Grid & Flexbox** - Modern layout techniques
 
-Make sure you have the following installed on your machine:
+### **3D & Animations** 
+- **Three.js** - 3D graphics and interactive elements
+- **GSAP** - High-performance animations
+- **Canvas API** - Custom visual effects
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+### **Development Tools**
+- **ESLint** - Code linting and formatting
+- **PostCSS** - CSS processing
+- **Vercel** - Deployment and hosting
 
-**Cloning the Repository**
+---
 
-```bash
-git clone https://github.com/ksparth12/portfolio.git
-cd portfolio
+## <a name="showcase">📸 Portfolio Showcase</a>
+
+### 🎨 Landing Page
+<img src="/public/assets/readme/Landingpage.png" alt="Portfolio Landing Page" width="100%">
+
+*Clean, modern design with interactive hero section and smooth animations*
+
+### 📊 Bento Grid Component
+<img src="/public/assets/readme/bentogrdi.png" alt="Bento Grid Layout" width="100%">
+
+*Innovative grid layout showcasing skills and information in an engaging format*
+
+### 🚀 Projects Gallery
+<img src="/public/assets/readme/projectsection.png" alt="Projects Section" width="100%">
+
+*Beautifully designed project cards with hover effects and detailed information*
+
+### 💭 Testimonials
+<img src="/public/assets/readme/testimonials.png" alt="Testimonials Section" width="100%">
+
+*Professional testimonials with smooth animations and modern card design*
+
+---
+
+## <a name="projects">🚀 Featured Projects</a>
+
+### 1. 🧠 **ThinkForge** - AI Project Ideas Generator
+```
+🔗 GitHub: https://github.com/ksparth12/ThinkForge
+🛠️ Tech: Next.js, React, TypeScript, TailwindCSS
+📝 Description: AI-powered platform generating personalized project ideas for developers
 ```
 
-**Installation**
+### 2. 📊 **DSA Hub** - Interactive Learning Platform  
+```
+🔗 GitHub: https://github.com/ksparth12/DSA-HUB
+🛠️ Tech: React, JavaScript, Node.js, TailwindCSS
+📝 Description: Comprehensive platform for learning data structures and algorithms
+```
 
-Install the project dependencies using npm:
+### 3. 🔗 **SnapURL** - Link Shortening Service
+```
+🔗 GitHub: https://github.com/ksparth12/SnapURL-2
+🛠️ Tech: Next.js, React, MongoDB, TailwindCSS
+📝 Description: Modern URL shortener with analytics and QR code generation
+```
 
+---
+
+## <a name="quick-start">⚡ Quick Start</a>
+
+### **Prerequisites**
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (v18 or higher)
+- [Git](https://git-scm.com/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### **Installation Steps**
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/ksparth12/Portfolio-Template.git
+cd Portfolio-Template
+```
+
+2. **Install dependencies**
 ```bash
 npm install
+# or
+yarn install
 ```
 
-**Running the Project**
-
+3. **Run development server**
 ```bash
 npm run dev
+# or
+yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+4. **Open in browser**
+```
+http://localhost:3000
+```
 
-## <a name="snippets">🕸️ Snippets</a>
+### **Build for Production**
+```bash
+npm run build
+npm start
+```
 
-<details>
-<summary><code>data/index.ts</code></summary>
+---
 
+## <a name="structure">📂 Project Structure</a>
+
+```
+📦 Portfolio-Template
+├── 📁 app/                    # Next.js App Router
+│   ├── 📄 layout.tsx         # Root layout
+│   ├── 📄 page.tsx           # Home page
+│   ├── 📄 globals.css        # Global styles
+│   └── 📄 provider.tsx       # Theme provider
+├── 📁 components/             # React components
+│   ├── 📁 ui/                # UI components
+│   │   ├── 📄 BentoGrid.tsx  # Grid layout
+│   │   ├── 📄 FloatingNavbar.tsx
+│   │   └── 📄 ...
+│   ├── 📄 Hero.tsx           # Hero section
+│   ├── 📄 Projects.tsx       # Projects showcase
+│   ├── 📄 Footer.tsx         # Footer component
+│   └── 📄 ...
+├── 📁 data/                  # Data and configurations
+│   └── 📄 index.ts          # Site data
+├── 📁 public/               # Static assets
+│   ├── 📁 assets/           # Images and icons
+│   └── 📄 ...
+├── 📄 constants.ts          # Project constants
+├── 📄 tailwind.config.ts    # Tailwind configuration
+└── 📄 next.config.mjs       # Next.js configuration
+```
+
+---
+
+## <a name="components">🎨 UI Components</a>
+
+### **Key Components**
+
+#### 🏠 Hero Section
 ```typescript
-export const navItems = [
-  { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
-  { name: "Contact", link: "#contact" },
-];
-
-export const gridItems = [
-  {
-    id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
-    description: "",
-    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
-    imgClassName: "w-full h-full",
-    titleClassName: "justify-end",
-    img: "/b1.svg",
-    spareImg: "",
-  },
-  {
-    id: 2,
-    title: "I'm very flexible with time zone communications",
-    description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
-    imgClassName: "",
-    titleClassName: "justify-start",
-    img: "",
-    spareImg: "",
-  },
-  {
-    id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
-    imgClassName: "",
-    titleClassName: "justify-center",
-    img: "",
-    spareImg: "",
-  },
-  {
-    id: 4,
-    title: "Tech enthusiast with a passion for development.",
-    description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
-    imgClassName: "",
-    titleClassName: "justify-start",
-    img: "/grid.svg",
-    spareImg: "/b4.svg",
-  },
-
-  {
-    id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
-    className: "md:col-span-3 md:row-span-2",
-    imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
-    titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
-    spareImg: "/grid.svg",
-  },
-  {
-    id: 6,
-    title: "Do you want to start a project together?",
-    description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
-    imgClassName: "",
-    titleClassName: "justify-center md:max-w-full max-w-60 text-center",
-    img: "",
-    spareImg: "",
-  },
-];
-
-export const projects = [
-  {
-    id: 1,
-    title: "ThinkForge - AI Project Ideas Generator",
-    des: "Discover AI-powered project ideas tailored for skill development, hackathons, and resume building. Transform your learning journey with personalized, innovative concepts.",
-    img: "/assets/projects/ThinkForge.png",
-    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/ksparth12/ThinkForge",
-  },
-  {
-    id: 2,
-    title: "DSA Hub - Interactive Learning Platform",
-    des: "Interactive platform to visualize, learn & practice Data Structures & Algorithms with interactive visualizations and practice problems to master DSA concepts with ease.",
-    img: "/assets/projects/DsaHub.png",
-    iconLists: ["/re.svg", "/tail.svg", "/assets/logos/javascript.svg", "/assets/logos/nodeJs.svg"],
-    link: "https://github.com/ksparth12/DSA-HUB",
-  },
-  {
-    id: 3,
-    title: "SnapURL - Link Shortening Platform",
-    des: "Transform long URLs into powerful links. Create branded, memorable links in seconds. Track performance, generate QR codes, and elevate your digital presence.",
-    img: "/assets/projects/snapUrl.png",
-    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/assets/logos/mongodb.svg"],
-    link: "https://github.com/ksparth12/SnapURL-2",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Parth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Parth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Parth is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-];
-
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
-
-export const workExperience = [
-  {
-    id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
-  },
-  {
-    id: 2,
-    title: "Mobile App Dev - TechCorp",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
-  {
-    id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
-];
-
-export const socialMedia = [
-  {
-    id: 1,
-    img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
-    img: "/link.svg",
-  },
-];
+// Dynamic hero with animations and CTA buttons
+<Hero />
 ```
 
-</details>
-
-<details>
-<summary><code>tailwind.config.ts</code></summary>
-
-```ts
-import type { Config } from "tailwindcss";
-
-const svgToDataUri = require("mini-svg-data-uri");
-
-const colors = require("tailwindcss/colors");
-const {
-  default: flattenColorPalette,
-} = require("tailwindcss/lib/util/flattenColorPalette");
-
-const config = {
-  darkMode: ["class"],
-  content: [
-    "./pages/**/*.{ts,tsx}",
-    "./components/**/*.{ts,tsx}",
-    "./app/**/*.{ts,tsx}",
-    "./src/**/*.{ts,tsx}",
-    "./data/**/*.{ts,tsx}",
-  ],
-  prefix: "",
-  theme: {
-    container: {
-      center: true,
-      padding: "2rem",
-      screens: {
-        "2xl": "1400px",
-      },
-    },
-    extend: {
-      colors: {
-        black: {
-          DEFAULT: "#000",
-          100: "#000319",
-          200: "rgba(17, 25, 40, 0.75)",
-          300: "rgba(255, 255, 255, 0.125)",
-        },
-        white: {
-          DEFAULT: "#FFF",
-          100: "#BEC1DD",
-          200: "#C1C2D3",
-        },
-        blue: {
-          "100": "#E4ECFF",
-        },
-        purple: "#CBACF9",
-        border: "hsl(var(--border))",
-        input: "hsl(var(--input))",
-        ring: "hsl(var(--ring))",
-        background: "hsl(var(--background))",
-        foreground: "hsl(var(--foreground))",
-        primary: {
-          DEFAULT: "hsl(var(--primary))",
-          foreground: "hsl(var(--primary-foreground))",
-        },
-        secondary: {
-          DEFAULT: "hsl(var(--secondary))",
-          foreground: "hsl(var(--secondary-foreground))",
-        },
-        destructive: {
-          DEFAULT: "hsl(var(--destructive))",
-          foreground: "hsl(var(--destructive-foreground))",
-        },
-        muted: {
-          DEFAULT: "hsl(var(--muted))",
-          foreground: "hsl(var(--muted-foreground))",
-        },
-        accent: {
-          DEFAULT: "hsl(var(--accent))",
-          foreground: "hsl(var(--accent-foreground))",
-        },
-        popover: {
-          DEFAULT: "hsl(var(--popover))",
-          foreground: "hsl(var(--popover-foreground))",
-        },
-        card: {
-          DEFAULT: "hsl(var(--card))",
-          foreground: "hsl(var(--card-foreground))",
-        },
-      },
-      borderRadius: {
-        lg: "var(--radius)",
-        md: "calc(var(--radius) - 2px)",
-        sm: "calc(var(--radius) - 4px)",
-      },
-      keyframes: {
-        "accordion-down": {
-          from: { height: "0" },
-          to: { height: "var(--radix-accordion-content-height)" },
-        },
-        "accordion-up": {
-          from: { height: "var(--radix-accordion-content-height)" },
-          to: { height: "0" },
-        },
-        spotlight: {
-          "0%": {
-            opacity: "0",
-            transform: "translate(-72%, -62%) scale(0.5)",
-          },
-          "100%": {
-            opacity: "1",
-            transform: "translate(-50%,-40%) scale(1)",
-          },
-        },
-        shimmer: {
-          from: {
-            backgroundPosition: "0 0",
-          },
-          to: {
-            backgroundPosition: "-200% 0",
-          },
-        },
-        moveHorizontal: {
-          "0%": {
-            transform: "translateX(-50%) translateY(-10%)",
-          },
-          "50%": {
-            transform: "translateX(50%) translateY(10%)",
-          },
-          "100%": {
-            transform: "translateX(-50%) translateY(-10%)",
-          },
-        },
-        moveInCircle: {
-          "0%": {
-            transform: "rotate(0deg)",
-          },
-          "50%": {
-            transform: "rotate(180deg)",
-          },
-          "100%": {
-            transform: "rotate(360deg)",
-          },
-        },
-        moveVertical: {
-          "0%": {
-            transform: "translateY(-50%)",
-          },
-          "50%": {
-            transform: "translateY(50%)",
-          },
-          "100%": {
-            transform: "translateY(-50%)",
-          },
-        },
-        scroll: {
-          to: {
-            transform: "translate(calc(-50% - 0.5rem))",
-          },
-        },
-      },
-      animation: {
-        "accordion-down": "accordion-down 0.2s ease-out",
-        "accordion-up": "accordion-up 0.2s ease-out",
-        spotlight: "spotlight 2s ease .75s 1 forwards",
-        shimmer: "shimmer 2s linear infinite",
-        first: "moveVertical 30s ease infinite",
-        second: "moveInCircle 20s reverse infinite",
-        third: "moveInCircle 40s linear infinite",
-        fourth: "moveHorizontal 40s ease infinite",
-        fifth: "moveInCircle 20s ease infinite",
-        scroll:
-          "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
-      },
-    },
-  },
-  plugins: [
-    require("tailwindcss-animate"),
-    addVariablesForColors,
-    function ({ matchUtilities, theme }: any) {
-      matchUtilities(
-        {
-          "bg-grid": (value: any) => ({
-            backgroundImage: `url("${svgToDataUri(
-              `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="100" height="100" fill="none" stroke="${value}"><path d="M0 .5H31.5V32"/></svg>`
-            )}")`,
-          }),
-          "bg-grid-small": (value: any) => ({
-            backgroundImage: `url("${svgToDataUri(
-              `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="8" height="8" fill="none" stroke="${value}"><path d="M0 .5H31.5V32"/></svg>`
-            )}")`,
-          }),
-          "bg-dot": (value: any) => ({
-            backgroundImage: `url("${svgToDataUri(
-              `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="16" height="16" fill="none"><circle fill="${value}" id="pattern-circle" cx="10" cy="10" r="1.6257413380501518"></circle></svg>`
-            )}")`,
-          }),
-        },
-        { values: flattenColorPalette(theme("backgroundColor")), type: "color" }
-      );
-    },
-  ],
-} satisfies Config;
-
-function addVariablesForColors({ addBase, theme }: any) {
-  let allColors = flattenColorPalette(theme("colors"));
-  let newVars = Object.fromEntries(
-    Object.entries(allColors).map(([key, val]) => [`--${key}`, val])
-  );
-
-  addBase({
-    ":root": newVars,
-  });
-}
-
-export default config;
+#### 🧩 Bento Grid
+```typescript
+// Modern grid layout with interactive cards
+<BentoGrid />
 ```
 
-</details>
-
-<details>
-<summary><code>globals.css</code></summary>
-
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  :root {
-    --background: 0 0% 100%;
-    --foreground: 240 10% 3.9%;
-
-    --card: 0 0% 100%;
-    --card-foreground: 240 10% 3.9%;
-
-    --popover: 0 0% 100%;
-    --popover-foreground: 240 10% 3.9%;
-
-    --primary: 240 5.9% 10%;
-    --primary-foreground: 0 0% 98%;
-
-    --secondary: 240 4.8% 95.9%;
-    --secondary-foreground: 240 5.9% 10%;
-
-    --muted: 240 4.8% 95.9%;
-    --muted-foreground: 240 3.8% 46.1%;
-
-    --accent: 240 4.8% 95.9%;
-    --accent-foreground: 240 5.9% 10%;
-
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-
-    --border: 240 5.9% 90%;
-    --input: 240 5.9% 90%;
-    --ring: 240 10% 3.9%;
-
-    --radius: 0.5rem;
-  }
-
-  .dark {
-    --background: 240 10% 3.9%;
-    --foreground: 0 0% 98%;
-
-    --card: 240 10% 3.9%;
-    --card-foreground: 0 0% 98%;
-
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
-
-    --primary: 0 0% 98%;
-    --primary-foreground: 240 5.9% 10%;
-
-    --secondary: 240 3.7% 15.9%;
-    --secondary-foreground: 0 0% 98%;
-
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-
-    --accent: 240 3.7% 15.9%;
-    --accent-foreground: 0 0% 98%;
-
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 240 4.9% 83.9%;
-  }
-}
-
-@layer base {
-  * {
-    @apply border-border !scroll-smooth;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
-  button {
-    @apply active:outline-none;
-  }
-}
-
-@layer utilities {
-  .heading {
-    @apply font-bold text-4xl md:text-5xl text-center;
-  }
-
-  .black-gradient {
-    background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
-  }
-}
+#### 🚀 Projects Display
+```typescript
+// Project showcase with GitHub integration
+<Projects />
 ```
 
-</details>
-
-
-<details>
-<summary><code>Linear Gradient</code></summary>
-
-```js
-style={{
-        //   add these two
-        //   you can generate the color from here https://cssgradient.io/
-        background: "rgb(4,7,29)",
-        backgroundColor:
-          "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
-      }}
+#### 💬 Testimonials
+```typescript
+// Animated testimonial carousel
+<Testimonials />
 ```
-</details>
 
+#### 🔗 Navigation
+```typescript
+// Floating navigation with smooth scroll
+<FloatingNavbar />
+```
 
-## <a name="links">🔗 Assets</a>
+---
 
-Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
+## <a name="configuration">🔧 Configuration</a>
 
-## <a name="more">🚀 Connect with Parth</a>
+### **Environment Setup**
+Create a `.env.local` file for environment variables:
+```env
+NEXT_PUBLIC_SITE_URL=https://your-domain.com
+NEXT_PUBLIC_GITHUB_USERNAME=ksparth12
+```
 
-**Want to see more of my work?**
+### **Customization**
+- **Colors**: Modify `tailwind.config.ts` for custom themes
+- **Content**: Update `data/index.ts` for personal information  
+- **Projects**: Edit `constants.ts` for project data
+- **Styling**: Customize `app/globals.css` for global styles
 
-Check out my other projects and connect with me on social media:
+### **Deploy to Vercel**
+1. Push code to GitHub
+2. Connect repository to Vercel
+3. Deploy with one click
 
-- **GitHub**: [github.com/ksparth12](https://github.com/ksparth12)
-- **LinkedIn**: [linkedin.com/in/ksparth12](https://linkedin.com/in/ksparth12)
-- **Twitter**: [x.com/ksparth12](https://x.com/ksparth12)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ksparth12/Portfolio-Template)
 
-Feel free to reach out if you want to collaborate on interesting projects!
+---
+
+## <a name="connect">🤝 Connect with Parth</a>
+
+<div align="center">
+
+### 🌟 **Let's Build Something Amazing Together!**
+
+I'm always excited to work on innovative projects and collaborate with fellow developers.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksparth12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ksparth12)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ksparth12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksparth12@gmail.com)
+
+**📧 Email**: ksparth12@gmail.com  
+**🌐 Portfolio**: [View Live Portfolio](https://your-domain.com)  
+**📄 Resume**: [Download Resume](https://drive.google.com/file/d/1d9ALAgqR8nv9rUy-vGRJV8RBR5E19Kop/view?usp=drive_link)
+
+---
+
+<p><strong>⭐ If you found this portfolio inspiring, please give it a star!</strong></p>
+<p><em>Built with ❤️ by Parth Sharma using Next.js and modern web technologies</em></p>
+
+</div>
